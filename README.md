@@ -223,5 +223,3 @@ You may freely use, modify, and share it with proper attribution.
 
 
 ---
-
-Would you like me to include **unit test templates (`ascii_art_test.go`)** for this program next — covering banner loading and rendering?
