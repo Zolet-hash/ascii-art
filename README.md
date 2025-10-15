@@ -96,7 +96,7 @@ Example 2 (multi-line)
 go run . "Hello\nThere" | cat -e
 
 Output:
-
+```console
  _    _          _   _          $
 | |  | |        | | | |         $
 | |__| |   ___  | | | |   ___   $
@@ -113,7 +113,7 @@ Output:
    |_|    |_| |_|  \___| |_|     \___| $
                                        $
                                        $
-
+```
 🧩 Banner File Format
 
 Each banner file contains 95 printable ASCII characters (from space " " to "~")
@@ -125,6 +125,7 @@ Each character representation has:
 
 Example of the first few characters in a banner file:
 
+```console
 ......
 ......
 ......
@@ -151,6 +152,7 @@ Example of the first few characters in a banner file:
 ......
 ......
 ......
+```
 
 🧪 Testing
 
