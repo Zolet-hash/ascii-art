@@ -165,7 +165,7 @@ renderLine()	Builds ASCII lines as expected for simple text.
 
 Example test command:
 
-go test -v
+`go test -v`
 
 🧱 Code Highlights
 
@@ -203,17 +203,17 @@ By completing this project, you’ll understand how to:
 
 🧰 Troubleshooting
 Problem	Solution
-failed to load banner file	Make sure standard, shadow, or thinkertoy file is in the same directory.
+"failed to load banner file"	Make sure `standard`, `shadow`, or `thinkertoy` file is in the same directory.
 Output looks broken	Check for extra spaces or tabs in your banner file. Each line must be consistent width.
-Input not showing	Try quoting it: go run . "{Hello There}"
-\n not working	Ensure you used double quotes: "Hello\nThere" not 'Hello\nThere'.
+Input not showing	Try quoting it: `go run . "{Hello There}"`
+`\n` not working	Ensure you used double quotes: `"Hello\nThere"` not `'Hello\nThere'`.
 🧑‍💻 Author
 
-Sir Emmanuel Otieno
+**Sir Emmanuel Otieno**
 Founder of Kenyan Brain Foundation
 Ambassador of AI in Africa 🌍
 📍 Kisumu, Kenya
-📧 [Contact: +2547 5971 9674]
+📧 [Contact: +2547 57722187]
 📜 License
 
 This project is open-source and distributed for educational purposes.
@@ -223,3 +223,4 @@ You may freely use, modify, and share it with proper attribution.
 
 
 ---
+
